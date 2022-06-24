@@ -1,0 +1,22 @@
+h1 {
+  font-size: 65px;
+  color: orange;
+  background-color: black;
+}
+ul {
+  background-color: aquamarine;
+  line-height: 1cm;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.texto-lista {
+  background-color: rgb(148, 148, 142);
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  text-decoration: dotted;
+}
+body {
+  font-size: 16px;
+  background-color: azure;
+}
